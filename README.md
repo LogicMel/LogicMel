@@ -10,7 +10,7 @@
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://codepen.io/MelvinBiju#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://https://codepen.io/MelvinBiju#gh-dark-mode-only)
+[![website](./img/globe-dark.svg)](https://codepen.io/MelvinBiju#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/#gh-dark-mode-only)
