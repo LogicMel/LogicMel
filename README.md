@@ -2,19 +2,12 @@
 
 ## I'm a Student, Musician and Developer!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with web devs.
-- 🥅 2022 Goals: Learn JavaScript
-- ⚡ Fun fact: I love to draw, watch AOT and play guitar
+- 🌱 I’m currently learning `HTML` & `CSS`
 
-### Connect with me:
+- 🥅 2022 Goals: Learn `JavaScript`
 
-[![website](./img/globe-light.svg)](https://codepen.io/MelvinBiju#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://https://codepen.io/MelvinBiju#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
+- ♥ I love to draw, writing `code` and learning new things
+
 
 ### Languages and Tools:
 
@@ -27,14 +20,20 @@
 <br />
 <br />
 
----
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LogicMel&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-</details>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+<a href="https://twitter.com">
+  <img align="right" alt="LogicMel | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" /> 
+</a>
 
 
 [codepen]: https://codepen.io/MelvinBiju
