@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with web devs.
 - 🥅 2022 Goals: Learn JavaScript
-- ⚡ Fun fact: I love to draw and play guitar
+- ⚡ Fun fact: I love to draw, watch AOT and play guitar
 
 ### Connect with me:
 
