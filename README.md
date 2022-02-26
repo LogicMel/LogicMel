@@ -6,7 +6,7 @@
 
 - 🥅 2022 Goals: Learn `JavaScript`
 
-- ♥ I love to draw, writing `code` and learning new things
+- ♥ I love to draw, write `code` and learn new things
 
 
 ### Languages and Tools:
