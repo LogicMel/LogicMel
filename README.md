@@ -31,10 +31,10 @@
 <br />
 <br />
 
-<a href="https://twitter.com">
+<a href="https://twitter.com/logic_mel">
   <img align="right" alt="LogicMel | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" /> 
 </a>
 
 
 [codepen]: https://codepen.io/MelvinBiju
-[twitter]: https://twitter.com/
+[twitter]: https://twitter.com/logic_mel
