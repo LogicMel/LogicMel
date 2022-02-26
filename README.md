@@ -36,12 +36,6 @@
 
 </details>
 
-<details>
-    <summary>:zap: Most Used Language </summary>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LogicMel&layout=compact)](https://github.com/LogicMel/LogicMel)
-
-</details>
 
 [codepen]: https://codepen.io/MelvinBiju
 [twitter]: https://twitter.com/
