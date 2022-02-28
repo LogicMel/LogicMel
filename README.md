@@ -36,5 +36,11 @@
 </a>
 
 
+<a href="https://discord.gg/cAMdmBVWA2">
+  <img align="right" alt="LogicMel | Discord" width="29x" src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png" /> 
+</a>
+
+
+
 [codepen]: https://codepen.io/MelvinBiju
 [twitter]: https://twitter.com/logic_mel
