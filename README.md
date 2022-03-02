@@ -31,13 +31,12 @@
 <br />
 <br />
 
+### Connect with Me
 <a href="https://twitter.com/logic_mel">
-  <img align="right" alt="LogicMel | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" /> 
+  <img align="left" alt="LogicMel | Twitter" width="29px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" /> 
 </a>
-
-
 <a href="https://discord.gg/cAMdmBVWA2">
-  <img align="right" alt="LogicMel | Discord" width="29x" src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png" /> 
+  <img align="left" alt="LogicMel | Discord" width="40px" src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png" /> 
 </a>
 
 
