@@ -1,12 +1,12 @@
 # Hi there, I'm Melvin - aka [LogicMel][codepen] 👋
 
-## I'm a Student, Guitarist and Developer!
+## I'm a Student, Guitarist and Web Developer!
 
 - 🌱 I’m currently learning `HTML` & `CSS`
 
 - 🥅 2022 Goals: Learn `JavaScript`
 
-- ❤️ I love to draw, `code` and learn new things
+- ❤️ I love to draw, `code`, 3D modeling and to learn new things
 
 
 
