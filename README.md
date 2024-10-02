@@ -39,13 +39,3 @@
 <br />
 <br />
 <br />
-
-### Connect with Me
-<a "https://discordapp.com/users/mlvinb/">
-  <img align="left" alt="LogicMel | Discord" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" /> 
-</a>
-
-
-
-[codepen]: https://codepen.io/MelvinBiju
-[twitter]: https://twitter.com/logic_mel
