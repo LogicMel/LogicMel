@@ -1,4 +1,4 @@
-# Hi there, I'm Melvin - aka [LogicMel][codepen] 👋
+# Hi there, I'm Melvin 👋
 
 ## I'm a Student, Guitarist and Web Developer!
 
